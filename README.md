@@ -43,7 +43,6 @@ This step involved the exploration of our dataset to provide reasonable insights
 ![HR Data](https://github.com/user-attachments/assets/1ddd4bb3-e1e6-48ea-b9b7-35c42793d166)
 
 
-![HR Data 2](https://github.com/user-attachments/assets/1034aa5b-a97c-44f7-8440-c0a442b4fbfa)
 
 
 
